@@ -1,3 +1,5 @@
+#TimeComplexity: O(len(text1)) or O(len(text2))
+#SpaceComplexity: O(m*n)
 class Solution(object):
     def longestCommonSubsequence(self, text1, text2):
         """
